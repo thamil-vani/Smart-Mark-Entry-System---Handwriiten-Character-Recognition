@@ -1,0 +1,1 @@
+# Smart-Mark-Entry-System---Handwriiten-Character-Recognition
